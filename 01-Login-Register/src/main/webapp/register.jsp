@@ -10,7 +10,7 @@
 <body>
  <div class="container">
  <h1>Register</h1>
- <form action="LoginServlet" method="post">
+ <form action="RegisterServlet" method="post">
  	<label for="username">Username</label>
  	<input type="text" id="username" name="username" required>
  	<label for="email" >Email</label>
